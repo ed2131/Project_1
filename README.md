@@ -20,7 +20,7 @@ With the rise of Artificial Intelligence, there have been significant shifts in 
 
 ### Salary Analysis (Edrin Ngadze)
 5. Break down the salary distribution based on employment type in AI: part-time, full-time, and casual roles.
-6. Analyze the influence of experience on salary: Does more experience always equate to a higher salary in the AI sector?
+6. Analyse the influence of experience on salary: Does more experience always equate to a higher salary in the AI sector?
 7. Investigate if company size plays a role in determining salary: Do larger companies pay more?
 
 ### Data Cleaning (All Group Members)
@@ -30,7 +30,7 @@ With the rise of Artificial Intelligence, there have been significant shifts in 
   - Standardizing data formats and units.
 
 ### Data Analysis
-- We will utilize and manipulate Data Frames to analyze and standardize our dataset. we will also deduce findings to answer our questions.
+- We will utilize and manipulate Data Frames to analyse and standardize our dataset. we will also deduce findings to answer our questions.
 
 ### Visualizations
 - To make our data more informative and visually appealing, we will create:
